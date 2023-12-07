@@ -2,7 +2,7 @@
 
 ## 单聊消息
 
-对应 QQ 开放平台：[单聊消息](https://bot.q.qq.com/wiki/develop/api-v2/server-inter/message/send-receive/event.html#%E5%8D%95%E8%81%8A%E6%B6%88%E6%81%AF)
+对应 QQ 开放平台：[单聊消息](https://bot.q.qq.com/wiki/develop/api-v2/server-inter/message/send-receive/event.html#单聊消息)
 
 ### 事件数据
 
@@ -29,7 +29,7 @@
 
 ## 群消息
 
-对应 QQ 开放平台：[群聊@机器人](https://bot.q.qq.com/wiki/develop/api-v2/server-inter/message/send-receive/event.html#%E7%BE%A4%E8%81%8A-%E6%9C%BA%E5%99%A8%E4%BA%BA)
+对应 QQ 开放平台：[群聊@机器人](https://bot.q.qq.com/wiki/develop/api-v2/server-inter/message/send-receive/event.html#群聊-机器人)
 
 ### 事件数据
 
@@ -55,7 +55,7 @@
 
 ## 频道消息
 
-对应 QQ 开放平台：[文字子频道全量消息（私域）](https://bot.q.qq.com/wiki/develop/api-v2/server-inter/message/send-receive/event.html#%E6%96%87%E5%AD%97%E5%AD%90%E9%A2%91%E9%81%93%E5%85%A8%E9%87%8F%E6%B6%88%E6%81%AF-%E7%A7%81%E5%9F%9F) 和 [文字子频道@机器人](https://bot.q.qq.com/wiki/develop/api-v2/server-inter/message/send-receive/event.html#%E6%96%87%E5%AD%97%E5%AD%90%E9%A2%91%E9%81%93-%E6%9C%BA%E5%99%A8%E4%BA%BA)
+对应 QQ 开放平台：[文字子频道全量消息（私域）](https://bot.q.qq.com/wiki/develop/api-v2/server-inter/message/send-receive/event.html#文字子频道全量消息-私域) 和 [文字子频道@机器人](https://bot.q.qq.com/wiki/develop/api-v2/server-inter/message/send-receive/event.html#文字子频道-机器人)
 
 ### 事件数据
 
@@ -82,7 +82,7 @@
 
 ## 频道私聊消息
 
-对应 QQ 开放平台：[文字子频道全量消息（私域）](https://bot.q.qq.com/wiki/develop/api-v2/server-inter/message/send-receive/event.html#%E6%96%87%E5%AD%97%E5%AD%90%E9%A2%91%E9%81%93%E5%85%A8%E9%87%8F%E6%B6%88%E6%81%AF-%E7%A7%81%E5%9F%9F) 和 [文字子频道@机器人](https://bot.q.qq.com/wiki/develop/api-v2/server-inter/message/send-receive/event.html#%E6%96%87%E5%AD%97%E5%AD%90%E9%A2%91%E9%81%93-%E6%9C%BA%E5%99%A8%E4%BA%BA)
+对应 QQ 开放平台：[文字子频道全量消息（私域）](https://bot.q.qq.com/wiki/develop/api-v2/server-inter/message/send-receive/event.html#文字子频道全量消息-私域) 和 [文字子频道@机器人](https://bot.q.qq.com/wiki/develop/api-v2/server-inter/message/send-receive/event.html#文字子频道-机器人)
 
 ### 事件数据
 

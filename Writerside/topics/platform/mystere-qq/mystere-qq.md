@@ -29,12 +29,12 @@ Mystere 支持对接 [QQ 开放平台](https://q.qq.com)。
 
   其中 `origin_event` 定义如下：
 
-  | 字段名         | 数据类型   | 说明                                                                                                                         |
-  |-------------|--------|----------------------------------------------------------------------------------------------------------------------------|
-  | id          | string | 原事件 ID，由 Mystere 分发事件时提供                                                                                                   |
-  | type        | string | 原事件类型，同 [OneBot V11 事件类型](https://github.com/botuniverse/onebot-11/tree/master/event#%E5%86%85%E5%AE%B9%E5%AD%97%E6%AE%B5) |
-  | detail_type | string | 原事件详细类型 [1]                                                                                                                |
-  | sub_type    | string | 原事件子类型（详细类型的下一级类型） [2]                                                                                                     |
+  | 字段名         | 数据类型   | 说明                                                                                         |
+  |-------------|--------|--------------------------------------------------------------------------------------------|
+  | id          | string | 原事件 ID，由 Mystere 分发事件时提供                                                                   |
+  | type        | string | 原事件类型，同 [OneBot V11 事件类型](https://github.com/botuniverse/onebot-11/tree/master/event#内容字段) |
+  | detail_type | string | 原事件详细类型 [1]                                                                                |
+  | sub_type    | string | 原事件子类型（详细类型的下一级类型） [2]                                                                     |
 
     1. `detail_type` 定义如下：
         + 当 `type` 为 `meta` 时，值为原事件的 `meta_event_type`；
