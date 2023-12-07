@@ -8,7 +8,7 @@ You can use it as a sandbox to play with Writerside features, and remove it from
 
 Mystere 是一个基于 Kotlin/Native、实现了 OneBot 协议的机器人无头客户端。
 
-项目名称取自[《Synduality Noir》](https://synduality-noir.com/)中的 [诺瓦尔（Noir）](https://zh.moegirl.org.cn/%E8%AF%BA%E7%93%A6%E5%B0%94) 里人格 米丝缇（Mystere），希望此项目能如米丝媂一样强大。
+项目名称取自[《Synduality Noir》](https://synduality-noir.com/)中的 [诺瓦尔（Noir）](https://zh.moegirl.org.cn/诺瓦尔) 里人格 米丝缇（Mystere），希望此项目能如米丝媂一样强大。
 
 项目支持以下目标运行（[查看详情](#跨平台兼容性)）：
 
